@@ -1,0 +1,12 @@
+.reply{
+    width: 50%;
+    background-color: blueviolet;
+}
+
+.reply-text{
+    margin-left: 20px;
+}
+
+.reply-id{
+    float: right;
+}

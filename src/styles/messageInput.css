@@ -1,0 +1,23 @@
+.messageInput{
+    width: 75%;
+    height: 150px;
+    margin: 0 auto;
+    border: 3px solid green;
+    position: relative;
+}
+
+.input textarea{
+    width: 90%;
+    height: 50px;
+    resize: none;
+}
+
+.input button{
+    height: 50px;
+    width: 9%;
+    float: right;
+}
+
+.input{
+    margin-top: 45px;
+}

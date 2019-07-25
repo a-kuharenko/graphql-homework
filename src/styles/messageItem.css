@@ -1,0 +1,25 @@
+.message{
+    width: 75%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-right: 25%;
+    background-color: antiquewhite;
+}
+
+.message-text{
+    font-size: 20px;
+    margin: 0;
+}
+
+.message label{
+    font-size: 15px;
+}
+
+.like{
+    height: 15px;
+    width: 15px;
+}
+
+.id {
+    float: right;
+}

@@ -1,0 +1,10 @@
+#endpoint: ''
+endpoint: https://eu1.prisma.sh/alexander-kuharenko-b39e81/graphQl-chat/dev
+
+datamodel: datamodel.prisma
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client
+hooks:
+  post-deploy:
+    - prisma generate
